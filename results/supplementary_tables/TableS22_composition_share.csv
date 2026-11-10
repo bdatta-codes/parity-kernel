@@ -1,0 +1,5 @@
+Set,Index,"ρ, real","ρ, one mono shuffle (95% range)","ρ, one dinuc shuffle (95% range)","Share, mono (95% bootstrap CI; %)","Share, dinuc (95% bootstrap CI; %)","Dispersion ratio, mono / dinuc","Variance-matched share, mono / dinuc (%)",Partial ρ | mono mean (p),Partial ρ | dinuc mean (p)
+G4Hunter reference set (n = 294),nMSI,+0.254,+0.118 (+0.031 to +0.206),+0.195 (+0.147 to +0.234),46 (16–72),76 (59–93),1.47 / 0.96,38 / 75,+0.165 (p = 0.005),+0.136 (p = 0.019)
+G4Hunter reference set (n = 294),MSI,+0.333,+0.297 (+0.232 to +0.366),+0.313 (+0.281 to +0.345),89 (72–114),94 (86–106),2.15 / 1.51,53 / 89,+0.056 (p = 0.337),+0.089 (p = 0.128)
+"A549 motifs (n = 23,040)",nMSI,+0.232,+0.132 (+0.119 to +0.144),+0.165 (+0.158 to +0.173),57 (54–60),71 (69–74),1.09 / 0.93,53 / 72,+0.112 (p < 1e-60),+0.131 (p < 1e-60)
+"A549 motifs (n = 23,040)",MSI,+0.407,+0.400 (+0.392 to +0.409),+0.389 (+0.384 to +0.393),98 (96–100),96 (94–97),1.35 / 1.07,81 / 94,-0.024 (p = 2.9e-04),+0.027 (p = 4.3e-05)

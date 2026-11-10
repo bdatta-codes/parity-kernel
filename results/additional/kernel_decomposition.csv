@@ -1,0 +1,28 @@
+set,shuffle,feature_set,n_features,auc,ci_lo,ci_hi
+98 consensus-negative reference,mono,nMSI alone,1,0.4839488754685547,0.44044063671386924,0.5283194502290712
+98 consensus-negative reference,mono,non-self-reverse fraction (1),1,0.543655508121616,0.4996640722615576,0.5936856387963348
+98 consensus-negative reference,mono,signed pair differences (24),24,0.5663525614327364,0.5135725999583507,0.6322587593710953
+98 consensus-negative reference,mono,signed pair differences + non-self-reverse fraction (25),25,0.5605752811328613,0.5031508355893378,0.6252554274260725
+98 consensus-negative reference,mono,absolute pair differences (24),24,0.5585175447730113,0.4983326608704706,0.6121107741566014
+98 consensus-negative reference,mono,self-reverse word counts (16),16,0.6555320699708455,0.5974516477509371,0.716160909516868
+98 consensus-negative reference,mono,pair sums (24),24,0.6709303415243648,0.6265302217825905,0.7225909126405665
+98 consensus-negative reference,mono,self-reverse counts + pair sums (40),40,0.7324864639733446,0.6784593008121617,0.7871964155560184
+98 consensus-negative reference,mono,all 64 word counts,64,0.7263067471886714,0.6775351416076635,0.7905103342357351
+98 consensus-negative reference,dinuc,nMSI alone,1,0.5129477301124533,0.4855142388588088,0.5433357194918783
+98 consensus-negative reference,dinuc,non-self-reverse fraction (1),1,0.5572370887130362,0.5207975192628072,0.5949647933152853
+98 consensus-negative reference,dinuc,signed pair differences (24),24,0.5284196688879634,0.4867735448771346,0.5752667508329863
+98 consensus-negative reference,dinuc,signed pair differences + non-self-reverse fraction (25),25,0.5486000624739692,0.504675265514369,0.5978386609745939
+98 consensus-negative reference,dinuc,absolute pair differences (24),24,0.5430625260308206,0.49357455226988756,0.5910377837359434
+98 consensus-negative reference,dinuc,self-reverse word counts (16),16,0.5715792898792169,0.52369650666389,0.6295317706164099
+98 consensus-negative reference,dinuc,pair sums (24),24,0.5836115160349854,0.5384424458558933,0.6362436875260309
+98 consensus-negative reference,dinuc,self-reverse counts + pair sums (40),40,0.6330018742190753,0.5869698172636402,0.6934654180549771
+98 consensus-negative reference,dinuc,all 64 word counts,64,0.6231968450645564,0.5866353862973761,0.6917630023948355
+538 mutagenesis wild types,dinuc,nMSI alone,1,0.5436698808750571,0.5312788959176905,0.5541437765163555
+538 mutagenesis wild types,dinuc,non-self-reverse fraction (1),1,0.6089927239811501,0.5944423683855944,0.6231713064530617
+538 mutagenesis wild types,dinuc,signed pair differences (24),24,0.5417616188278217,0.5254047609382125,0.5639615629448183
+538 mutagenesis wild types,dinuc,signed pair differences + non-self-reverse fraction (25),25,0.6191733115904976,0.6052025413378754,0.6369221917711198
+538 mutagenesis wild types,dinuc,absolute pair differences (24),24,0.5755007963543898,0.5533658021931704,0.5956985893644365
+538 mutagenesis wild types,dinuc,self-reverse word counts (16),16,0.6339506605768299,0.6198041913979906,0.6500900605989414
+538 mutagenesis wild types,dinuc,pair sums (24),24,0.6906277552825417,0.6718592780468761,0.7101364469465596
+538 mutagenesis wild types,dinuc,self-reverse counts + pair sums (40),40,0.7483320003178509,0.7341619384924198,0.7653855927225992
+538 mutagenesis wild types,dinuc,all 64 word counts,64,0.7484278737856027,0.7355191202788796,0.7665209051664571

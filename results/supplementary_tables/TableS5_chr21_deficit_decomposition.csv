@@ -1,0 +1,7 @@
+component,weighted_mean,share_of_deficit,windows_covered
+deficit,0.0927,1.0,132677
+memory,-0.002,-0.021,132677
+nonreversibility,0.0743,0.801,132677
+cpg_gpc_asymmetry,0.0553,0.596,132677
+cpg_gpc_asymmetry_from_reversible,0.0325,0.35,132677
+higher_order,0.0204,0.22,132677

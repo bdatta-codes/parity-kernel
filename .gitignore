@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+.DS_Store
+*.egg-info/
+# reference genomes are fetched locally, never committed (see data/fetch_*.sh and README);
+# the small manuscript sequence sets promoter_panel.fasta and published_pairs.fasta ARE kept.
+data/fly*.gb
+data/Homo_sapiens.GRCh38*.fa
+data/Homo_sapiens.GRCh38*.fa.gz

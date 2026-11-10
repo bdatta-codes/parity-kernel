@@ -1,0 +1,4 @@
+Collection,n,median_length,length_range,median_GC,median_G_tracts,pct_Quadparser_positive,n_with_4plus_tracts
+G4Hunter reference set,298,24,13–60,0.656,4.0,65.8,229
+A549 G-rich set,300,28,16–68,0.818,4.0,100.0,295
+Oncogene-promoter panel,14,29,18–49,0.772,4.0,85.7,14

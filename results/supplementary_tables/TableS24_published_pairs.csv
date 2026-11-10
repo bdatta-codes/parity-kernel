@@ -1,0 +1,6 @@
+pair,wt_nMSI,mut_nMSI,wt_higher,p_null,p_null_MSI,z_wt,z_mut
+MYC WT / MYC MUT,0.75,0.333,yes,0.717,0.954,1.02,-1.47
+MYC WT / MUT CORE,0.75,0.429,yes,0.622,0.822,1.02,-0.99
+MYC WT / MUT MIN,0.75,0.483,yes,0.654,0.89,1.02,-0.45
+GPX4 G4 / mutGPX4,0.364,0.143,yes,0.705,0.888,-1.37,-2.3
+CLIC4 G4 / mutCLIC4,0.556,0.267,yes,0.569,0.65,0.45,-1.14

@@ -1,0 +1,10 @@
+set,shuffle,feature_set,n_features,auc,ci_lo,ci_hi
+chr21 control fragments (n = 528),dinuc,nMSI alone,1,0.5194016424902432,0.503648355447228,0.5351532705427857
+chr21 control fragments (n = 528),dinuc,non-self-reverse fraction (1),1,0.5351374809888659,0.519159127227531,0.5522324541580579
+chr21 control fragments (n = 528),dinuc,signed pair differences (24),24,0.5196720220672636,0.4981125598133322,0.5439949432176883
+chr21 control fragments (n = 528),dinuc,signed pair differences + non-self-reverse fraction (25),25,0.5398219051308539,0.5186472232983241,0.5623714798015668
+chr21 control fragments (n = 528),dinuc,absolute pair differences (24),24,0.5024928708247246,0.4804398813238923,0.5255395350880969
+chr21 control fragments (n = 528),dinuc,self-reverse word counts (16),16,0.5352469026199496,0.5183692280582816,0.555712641776429
+chr21 control fragments (n = 528),dinuc,pair sums (24),24,0.5521486616879018,0.53559403740889,0.5741739370803202
+chr21 control fragments (n = 528),dinuc,self-reverse counts + pair sums (40),40,0.5506957447342746,0.5319530667111455,0.5737283636256026
+chr21 control fragments (n = 528),dinuc,all 64 word counts,64,0.5566017239152894,0.5380435570190542,0.5826424534765267

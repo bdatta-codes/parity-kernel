@@ -1,0 +1,12 @@
+{
+ "n_sequences": 538,
+ "shuffles_per_sequence": 200,
+ "mono_nMSI_mean_fraction_beaten": 0.48482342007434953,
+ "mono_nMSI_wilcoxon_p": 0.20864237683998477,
+ "mono_MSI_mean_fraction_beaten": 0.4358224907063197,
+ "mono_MSI_wilcoxon_p": 9.59655218965861e-06,
+ "dinuc_nMSI_mean_fraction_beaten": 0.5857342007434945,
+ "dinuc_nMSI_wilcoxon_p": 3.933399689967218e-12,
+ "dinuc_MSI_mean_fraction_beaten": 0.4707620817843866,
+ "dinuc_MSI_wilcoxon_p": 0.015478131478115147
+}

@@ -1,0 +1,9 @@
+Convention,n,mean_wt_G4H,mean_mut_G4H,mean_drop,pct_zero_delta,mean_delta_nMSI,mean_null_mono,mean_null_dinuc
+"G→T, tract centre",532,1.822,0.447,1.375,21.1,0.0551,0.605,0.471
+"G→A, tract centre",535,1.822,0.447,1.375,23.7,0.0492,0.655,0.449
+"G→C, tract centre",536,1.823,0.282,1.541,28.5,0.038,0.624,0.428
+"G→T, two tracts only",457,1.807,1.148,0.659,18.4,0.0727,0.572,0.419
+first tract replaced by thymine,377,1.778,1.323,0.456,15.1,0.1153,0.584,0.701
+"G→T, 3′ edge",500,1.776,0.892,0.883,3.6,0.1735,0.606,0.732
+"G→T, 5′ edge",500,1.776,0.892,0.883,2.6,0.221,0.607,0.81
+whole-sequence scramble,280,1.74,1.417,0.323,10.4,-0.0788,0.5,0.378

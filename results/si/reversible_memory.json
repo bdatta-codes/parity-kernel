@@ -1,0 +1,11 @@
+{
+ "self_transition": 0.7692307692307693,
+ "L": 300,
+ "n": 20000,
+ "mean_nmsi_reversible_memory": 0.7608141887775646,
+ "se_reversible": 0.0004926682340618811,
+ "mean_nmsi_independent": 0.7776126054380911,
+ "se_independent": 0.0003195611943666325,
+ "mean_nmsi_reversible_no_repeat": 0.8222449103221646,
+ "se_reversible_no_repeat": 0.0003739594916795546
+}

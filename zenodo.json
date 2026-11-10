@@ -1,0 +1,29 @@
+{
+  "title": "parity-kernel: closed-form nulls and detection limits for intra-strand parity indices",
+  "description": "Code, data and result tables for the paper \"A Closed-Form Expectation for Intra-Strand Parity Indices and the Limits of Their Use as G-Quadruplex Descriptors\" (NAR Genomics and Bioinformatics). Includes the closed-form expectation of an intra-strand parity index, the in silico mutagenesis of 538 putative quadruplex sequences, and the scripts behind every table and figure of the paper and its Supplementary Information.",
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "MIT",
+  "creators": [
+    {
+      "name": "Arya, Arjun",
+      "affiliation": "Indian Institute of Technology Gandhinagar"
+    },
+    {
+      "name": "Pancholi, Heli",
+      "affiliation": "Indian Institute of Technology Gandhinagar"
+    },
+    {
+      "name": "Datta, Bhaskar",
+      "affiliation": "Indian Institute of Technology Gandhinagar"
+    }
+  ],
+  "keywords": [
+    "G-quadruplex",
+    "mirror symmetry index",
+    "intra-strand parity",
+    "sequence composition",
+    "null model",
+    "G4Hunter"
+  ]
+}

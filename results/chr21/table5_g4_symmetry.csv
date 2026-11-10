@@ -1,0 +1,2 @@
+n,frac_windows_with_g4,mean_nmsi_with_g4,mean_nmsi_without_g4,g4_vs_symmetry_rho,g4_vs_symmetry_p,gc_vs_symmetry_rho,gc_vs_symmetry_p,g4_vs_gc_rho,g4_vs_gc_p,g4_vs_symmetry_partial_gc_rho,g4_vs_symmetry_partial_gc_p
+133601,0.475,0.6716,0.7079,-0.248,0.0,-0.433,0.0,0.676,0.0,0.069,9.426848125058491e-141

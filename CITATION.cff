@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying paper."
+title: "parity-kernel: closed-form nulls and detection limits for intra-strand parity indices"
+authors:
+  - family-names: Arya
+    given-names: Arjun
+    affiliation: "Indian Institute of Technology Gandhinagar"
+  - family-names: Pancholi
+    given-names: Heli
+    affiliation: "Indian Institute of Technology Gandhinagar"
+  - family-names: Datta
+    given-names: Bhaskar
+    affiliation: "Indian Institute of Technology Gandhinagar"
+    email: bdatta@iitgn.ac.in
+license: MIT
+version: 1.0.2
+date-released: "2026-11-10"
+url: "https://github.com/bdatta-codes/parity-kernel"
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.24099675
+    description: "Concept DOI (all versions) on Zenodo"
+preferred-citation:
+  type: article
+  title: "A Closed-Form Expectation for Intra-Strand Parity Indices and the Limits of Their Use as G-Quadruplex Descriptors"
+  authors:
+    - family-names: Arya
+      given-names: Arjun
+    - family-names: Pancholi
+      given-names: Heli
+    - family-names: Datta
+      given-names: Bhaskar
+  year: 2026
+  journal: "NAR Genomics and Bioinformatics"

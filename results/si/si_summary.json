@@ -1,0 +1,66 @@
+{
+ "median_skew": -0.2615,
+ "iid_mean_above_empirical": 12,
+ "iid_sd_above_empirical": 14,
+ "analytic_minus_iid_mean_range": [
+  -0.0015000000000000568,
+  0.1379999999999999
+ ],
+ "p0_range": [
+  0.569,
+  0.717
+ ],
+ "p0_mean": 0.653,
+ "p_12_of_14": 0.08798306468807836,
+ "z_wt_mean": 0.43,
+ "z_mut_mean": -1.27,
+ "p0_MSI_range": [
+  0.65,
+  0.954
+ ],
+ "p0_MSI_mean": 0.841,
+ "scan_sequences": 538,
+ "scan_total": 25452,
+ "scan_pct_raise": 29.6,
+ "scan_pct_zero": 20.5,
+ "scan_pct_lower": 49.9,
+ "scan_pct_lower_by_position": {
+  "3\u2032 edge": 54.3,
+  "5\u2032 edge": 55.5,
+  "tract interior": 43.1
+ },
+ "stored_values_compared": 1192,
+ "stored_max_abs_diff": 5.551115123125783e-17,
+ "eq2_identical_m_le_55": true,
+ "binom_mad_float_max_rel_err": 5.36413009365189e-14,
+ "g4h_telomere_GGGTTAGGGTTAGGGTTAGGG": 1.714,
+ "g4h_cMYC_Pu27": 2.593,
+ "g4h_pearson_vs_stored_298": 1.0,
+ "quadparser_positive_of_298": 196,
+ "exact_tail_12_of_14_all_half_no_ties": 0.0064697265625,
+ "iid_max_abs_P_w_minus_P_revw": 1.3877787807814457e-17,
+ "spread_ties_half": [
+  53.1,
+  81.1,
+  28.0
+ ],
+ "spread_ties_discordant": [
+  38.8,
+  79.8,
+  41.0
+ ],
+ "spread_ties_excluded": [
+  54.3,
+  81.9,
+  27.6
+ ],
+ "spread_common_sequences": [
+  354,
+  50.6,
+  78.2,
+  27.7
+ ],
+ "null_threshold_12_of_14": 0.614610317636118,
+ "rev_worst_reversible": 1.3877787807814457e-17,
+ "rev_worst_unconstrained": 0.09027747471841152
+}

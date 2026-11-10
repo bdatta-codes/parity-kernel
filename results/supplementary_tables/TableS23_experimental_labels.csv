@@ -1,0 +1,11 @@
+Score,AUC (95% interval)
+MSI,0.941 (0.824–1.000)
+nMSI,0.906 (0.753–1.000)
+nMSI z-score against own mononucleotide shuffles,0.871 (0.694–0.988)
+Mean nMSI of own mononucleotide shuffles (composition only),0.812 (0.600–0.965)
+G4Hunter,0.988 (0.929–1.000)
+Quadparser consensus,0.912 (0.824–1.000)
+Guanine fraction,0.976 (0.894–1.000)
+Number of G≥3 tracts,0.982 (0.918–1.000)
+nMSI >= 0.50: sensitivity,0.765
+nMSI >= 0.50: specificity,1.000

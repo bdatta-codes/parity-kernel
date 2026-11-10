@@ -1,0 +1,23 @@
+Sequence,Folds,Length (nt),G fraction,nMSI,Composition baseline,Baseline ≥ 0.50,nMSI ≥ 0.50,z vs own shuffles
+c-MYC,yes,27,0.74,0.923,0.671,yes,yes,+1.23
+VEGF,yes,20,0.80,1.000,0.892,yes,yes,+0.86
+BCL2,yes,33,0.55,0.600,0.487,no,yes,+0.73
+HIF1A,yes,31,0.71,0.667,0.687,yes,yes,-0.11
+KRAS,yes,32,0.66,0.933,0.635,yes,yes,+1.88
+BCR,yes,23,0.61,0.364,0.472,no,no,-0.55
+c-KIT,yes,22,0.68,0.545,0.517,yes,yes,+0.14
+MET,yes,35,0.60,0.588,0.547,yes,yes,+0.27
+CARD11,yes,49,0.65,0.640,0.595,yes,yes,+0.34
+ACC1,yes,25,0.72,0.769,0.685,yes,yes,+0.42
+HRAS,yes,24,0.79,1.000,0.917,yes,yes,+0.89
+ATG7,yes,32,0.50,0.300,0.485,no,no,-1.23
+MDM2,yes,44,0.61,0.435,0.641,yes,no,-1.52
+ARID1A,yes,18,0.83,1.000,0.647,yes,yes,+1.16
+MYC WT,yes,48,0.67,0.750,0.606,yes,yes,+1.04
+MYC MUT,no,48,0.33,0.333,0.506,yes,no,-1.49
+MYC MUT CORE,no,48,0.54,0.429,0.555,yes,no,-0.99
+MYC MUT MIN,no,48,0.48,0.483,0.539,yes,no,-0.46
+GPX4 G4,yes,32,0.62,0.364,0.582,yes,no,-1.31
+mutGPX4,no,34,0.38,0.143,0.477,no,no,-2.33
+CLIC4 G4,yes,30,0.50,0.556,0.484,no,yes,+0.45
+mutCLIC4,no,28,0.39,0.267,0.453,no,no,-1.16

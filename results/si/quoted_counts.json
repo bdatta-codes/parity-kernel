@@ -1,0 +1,86 @@
+{
+ "tracts_total": 2429,
+ "tracts_even_length": 637,
+ "wild_types_failing_consensus": 40,
+ "pairs_from_failing_wild_types": 304,
+ "fraction_shorter_than_51nt": 0.9795539033457249,
+ "median_length": 25.5,
+ "T_centre_pairs_four_tracts": [
+  129,
+  376
+ ],
+ "T_centre_pairs_more_tracts": [
+  146,
+  156
+ ],
+ "T_centre_tested_by_source": {
+  "A549 G-rich": 219,
+  "G4Hunter reference": 47,
+  "oncogene promoter": 9
+ },
+ "chr21_gc_p5_p95": [
+  0.2766666666666666,
+  0.5833333333333334
+ ],
+ "chr21_rho_prediction_gc": -0.7378869322081625,
+ "frame_true_below_frame1": {
+  "n_below": 766,
+  "n_above": 310,
+  "sign_test_p_two_sided": 4.307976544856014e-45,
+  "mean_difference": -0.05352717280760495,
+  "wilcoxon_p": 3.614006921190004e-61
+ },
+ "frame_true_below_frame2": {
+  "n_below": 497,
+  "n_above": 579,
+  "sign_test_p_two_sided": 0.013499777458689168,
+  "mean_difference": 0.0055021318409257,
+  "wilcoxon_p": 0.009223291837119228
+ },
+ "min_length_k3_by_reference_level": {
+  "0.40": 29,
+  "0.45": 39,
+  "0.50": 51,
+  "0.55": 66,
+  "0.60": 87
+ },
+ "tie_rate_T_centre_vs_random_placement_pct": {
+  "real": [
+   21.1,
+   532
+  ],
+  "outside_tracts": [
+   7.9,
+   526
+  ],
+  "anywhere": [
+   4.6,
+   532
+  ]
+ },
+ "frame_true_lowest_vs_one_third": {
+  "n": 430,
+  "of": 1076,
+  "binomial_p_one_sided": 3.1167996954705626e-06
+ },
+ "n_distinct_wild_types_538": 532,
+ "mutants_dropped_undefined_nMSI": {
+  "T_centre": 4,
+  "T_3prime": 0,
+  "T_5prime": 0,
+  "A_centre": 1,
+  "C_centre": 0,
+  "two_tract": 0,
+  "tract_ablate": 0
+ },
+ "tie_rate_T_centre_base_matched_control_pct": {
+  "G_to_T_outside_tracts": [
+   2.9,
+   68
+  ],
+  "G_to_T_any_guanine": [
+   7.4,
+   532
+  ]
+ }
+}

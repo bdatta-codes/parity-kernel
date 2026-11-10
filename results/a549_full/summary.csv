@@ -1,0 +1,153 @@
+subset,n,quantity,value
+all motifs,23040,interior G>=3 runs,62691.0
+all motifs,23040,% identical flanks,41.08723740249797
+all motifs,23040,% of nMSI numerator from boundary words,35.41796541108876
+all motifs,23040,mean delta number of G-runs (real - mono shuffles),-0.49197309027777786
+all motifs,23040,mean delta mean G-run length,0.09886947529758482
+all motifs,23040,"Spearman rho(d nMSI, d runs)",0.2208045392970817
+all motifs,23040,"p, rho(d nMSI, d runs)",2.1291840409267777e-252
+all motifs,23040,"Spearman rho(d nMSI, d mean run length)",-0.24172726625856134
+all motifs,23040,"pooled AUC real vs own mono shuffles, nMSI",0.4632873801808298
+all motifs,23040,"pooled AUC real vs own mono shuffles, nMSI, 95% CI low",0.4598498951377398
+all motifs,23040,"pooled AUC real vs own mono shuffles, nMSI, 95% CI high",0.46626558194548995
+all motifs,23040,"% of own mono shuffles strictly beaten, nMSI",42.91792534722222
+all motifs,23040,"% of own mono shuffles beaten, ties one half, nMSI",46.12734375
+all motifs,23040,"paired Wilcoxon p (real vs mono shuffle mean), nMSI",3.665745246898479e-66
+all motifs,23040,"pooled AUC real vs own mono shuffles, MSI",0.41924793434614016
+all motifs,23040,"pooled AUC real vs own mono shuffles, MSI, 95% CI low",0.4159467701339722
+all motifs,23040,"pooled AUC real vs own mono shuffles, MSI, 95% CI high",0.42214239584840374
+all motifs,23040,"% of own mono shuffles strictly beaten, MSI",37.23433159722222
+all motifs,23040,"% of own mono shuffles beaten, ties one half, MSI",40.13810763888889
+all motifs,23040,"paired Wilcoxon p (real vs mono shuffle mean), MSI",0.0
+all motifs,23040,"pooled AUC real vs own dinuc shuffles, nMSI",0.5286192946634175
+all motifs,23040,"pooled AUC real vs own dinuc shuffles, nMSI, 95% CI low",0.5265428168534644
+all motifs,23040,"pooled AUC real vs own dinuc shuffles, nMSI, 95% CI high",0.530694041084007
+all motifs,23040,"% of own dinuc shuffles strictly beaten, nMSI",48.23307291666667
+all motifs,23040,"% of own dinuc shuffles beaten, ties one half, nMSI",55.18109809027777
+all motifs,23040,"paired Wilcoxon p (real vs dinuc shuffle mean), nMSI",0.0
+all motifs,23040,"pooled AUC real vs own dinuc shuffles, MSI",0.48737377480400934
+all motifs,23040,"pooled AUC real vs own dinuc shuffles, MSI, 95% CI low",0.48581625856705657
+all motifs,23040,"pooled AUC real vs own dinuc shuffles, MSI, 95% CI high",0.4890166170890243
+all motifs,23040,"% of own dinuc shuffles strictly beaten, MSI",39.92265625
+all motifs,23040,"% of own dinuc shuffles beaten, ties one half, MSI",46.44911024305556
+all motifs,23040,"paired Wilcoxon p (real vs dinuc shuffle mean), MSI",8.810989883425065e-38
+all motifs,23040,rho nMSI vs G4Hunter,0.23188344904174082
+all motifs,23040,rho MSI vs G4Hunter,0.4067925491244584
+all motifs,23040,rho mean mono-shuffled nMSI vs WT G4Hunter,0.2740407173432514
+all motifs,23040,rho mean dinuc-shuffled nMSI vs WT G4Hunter,0.1988080893145361
+all motifs,23040,share of association kept by mono shuffles,1.181803696968135
+all motifs,23040,share of association kept by dinuc shuffles,0.8573621366083317
+distinct sequences,22667,interior G>=3 runs,61985.0
+distinct sequences,22667,% identical flanks,41.03573445188352
+distinct sequences,22667,% of nMSI numerator from boundary words,35.31907990786101
+distinct sequences,22667,mean delta number of G-runs (real - mono shuffles),-0.5066051969823974
+distinct sequences,22667,mean delta mean G-run length,0.10876331301235981
+distinct sequences,22667,"Spearman rho(d nMSI, d runs)",0.2205084214044098
+distinct sequences,22667,"p, rho(d nMSI, d runs)",1.1398674550485124e-247
+distinct sequences,22667,"Spearman rho(d nMSI, d mean run length)",-0.23841500433237806
+distinct sequences,22667,"pooled AUC real vs own mono shuffles, nMSI",0.4629713385348157
+distinct sequences,22667,"pooled AUC real vs own mono shuffles, nMSI, 95% CI low",0.45985698785697865
+distinct sequences,22667,"pooled AUC real vs own mono shuffles, nMSI, 95% CI high",0.4666489155117521
+distinct sequences,22667,"% of own mono shuffles strictly beaten, nMSI",42.96047116954162
+distinct sequences,22667,"% of own mono shuffles beaten, ties one half, nMSI",46.06730048087528
+distinct sequences,22667,"paired Wilcoxon p (real vs mono shuffle mean), nMSI",1.919420977589401e-68
+distinct sequences,22667,"pooled AUC real vs own mono shuffles, MSI",0.41923319422390837
+distinct sequences,22667,"pooled AUC real vs own mono shuffles, MSI, 95% CI low",0.4164569206326151
+distinct sequences,22667,"pooled AUC real vs own mono shuffles, MSI, 95% CI high",0.4222647933681795
+distinct sequences,22667,"% of own mono shuffles strictly beaten, MSI",37.23646711077778
+distinct sequences,22667,"% of own mono shuffles beaten, ties one half, MSI",40.03547006661667
+distinct sequences,22667,"paired Wilcoxon p (real vs mono shuffle mean), MSI",0.0
+distinct sequences,22667,"pooled AUC real vs own dinuc shuffles, nMSI",0.529787379910585
+distinct sequences,22667,"pooled AUC real vs own dinuc shuffles, nMSI, 95% CI low",0.5277123264051733
+distinct sequences,22667,"pooled AUC real vs own dinuc shuffles, nMSI, 95% CI high",0.5318781110631525
+distinct sequences,22667,"% of own dinuc shuffles strictly beaten, nMSI",48.485816385053155
+distinct sequences,22667,"% of own dinuc shuffles beaten, ties one half, nMSI",55.30180438522962
+distinct sequences,22667,"paired Wilcoxon p (real vs dinuc shuffle mean), nMSI",0.0
+distinct sequences,22667,"pooled AUC real vs own dinuc shuffles, MSI",0.48844958037167385
+distinct sequences,22667,"pooled AUC real vs own dinuc shuffles, MSI, 95% CI low",0.487047257031033
+distinct sequences,22667,"pooled AUC real vs own dinuc shuffles, MSI, 95% CI high",0.4900229942942535
+distinct sequences,22667,"% of own dinuc shuffles strictly beaten, MSI",40.11033661269688
+distinct sequences,22667,"% of own dinuc shuffles beaten, ties one half, MSI",46.51614682137027
+distinct sequences,22667,"paired Wilcoxon p (real vs dinuc shuffle mean), MSI",9.069877221148393e-35
+distinct sequences,22667,rho nMSI vs G4Hunter,0.22001207502657885
+distinct sequences,22667,rho MSI vs G4Hunter,0.398832058201807
+distinct sequences,22667,rho mean mono-shuffled nMSI vs WT G4Hunter,0.27011621141293546
+distinct sequences,22667,rho mean dinuc-shuffled nMSI vs WT G4Hunter,0.19227983711039348
+distinct sequences,22667,share of association kept by mono shuffles,1.2277335749881169
+distinct sequences,22667,share of association kept by dinuc shuffles,0.8739512914787284
+first 300 (A549 G-rich set),300,interior G>=3 runs,838.0
+first 300 (A549 G-rich set),300,% identical flanks,36.75417661097852
+first 300 (A549 G-rich set),300,% of nMSI numerator from boundary words,35.37061118335501
+first 300 (A549 G-rich set),300,mean delta number of G-runs (real - mono shuffles),-0.7749333333333333
+first 300 (A549 G-rich set),300,mean delta mean G-run length,0.2256220769797325
+first 300 (A549 G-rich set),300,"Spearman rho(d nMSI, d runs)",0.2799761239219465
+first 300 (A549 G-rich set),300,"p, rho(d nMSI, d runs)",8.307998506502451e-07
+first 300 (A549 G-rich set),300,"Spearman rho(d nMSI, d mean run length)",-0.2763110701230014
+first 300 (A549 G-rich set),300,"pooled AUC real vs own mono shuffles, nMSI",0.43196705555555553
+first 300 (A549 G-rich set),300,"pooled AUC real vs own mono shuffles, nMSI, 95% CI low",0.40274835555555555
+first 300 (A549 G-rich set),300,"pooled AUC real vs own mono shuffles, nMSI, 95% CI high",0.4591702916666667
+first 300 (A549 G-rich set),300,"% of own mono shuffles strictly beaten, nMSI",40.29333333333333
+first 300 (A549 G-rich set),300,"% of own mono shuffles beaten, ties one half, nMSI",42.796666666666674
+first 300 (A549 G-rich set),300,"paired Wilcoxon p (real vs mono shuffle mean), nMSI",0.0001749961921306374
+first 300 (A549 G-rich set),300,"pooled AUC real vs own mono shuffles, MSI",0.39032955555555554
+first 300 (A549 G-rich set),300,"pooled AUC real vs own mono shuffles, MSI, 95% CI low",0.3647624902777778
+first 300 (A549 G-rich set),300,"pooled AUC real vs own mono shuffles, MSI, 95% CI high",0.41485570833333335
+first 300 (A549 G-rich set),300,"% of own mono shuffles strictly beaten, MSI",34.63666666666666
+first 300 (A549 G-rich set),300,"% of own mono shuffles beaten, ties one half, MSI",36.9
+first 300 (A549 G-rich set),300,"paired Wilcoxon p (real vs mono shuffle mean), MSI",1.3644119112035458e-12
+first 300 (A549 G-rich set),300,"pooled AUC real vs own dinuc shuffles, nMSI",0.5290293888888888
+first 300 (A549 G-rich set),300,"pooled AUC real vs own dinuc shuffles, nMSI, 95% CI low",0.5143825055555555
+first 300 (A549 G-rich set),300,"pooled AUC real vs own dinuc shuffles, nMSI, 95% CI high",0.5455396611111111
+first 300 (A549 G-rich set),300,"% of own dinuc shuffles strictly beaten, nMSI",48.41
+first 300 (A549 G-rich set),300,"% of own dinuc shuffles beaten, ties one half, nMSI",54.6
+first 300 (A549 G-rich set),300,"paired Wilcoxon p (real vs dinuc shuffle mean), nMSI",5.912146585472039e-06
+first 300 (A549 G-rich set),300,"pooled AUC real vs own dinuc shuffles, MSI",0.48409416666666666
+first 300 (A549 G-rich set),300,"pooled AUC real vs own dinuc shuffles, MSI, 95% CI low",0.4716654513888889
+first 300 (A549 G-rich set),300,"pooled AUC real vs own dinuc shuffles, MSI, 95% CI high",0.49477719166666667
+first 300 (A549 G-rich set),300,"% of own dinuc shuffles strictly beaten, MSI",40.00999999999999
+first 300 (A549 G-rich set),300,"% of own dinuc shuffles beaten, ties one half, MSI",45.65
+first 300 (A549 G-rich set),300,"paired Wilcoxon p (real vs dinuc shuffle mean), MSI",0.02359411551309278
+first 300 (A549 G-rich set),300,rho nMSI vs G4Hunter,0.22943884979685833
+first 300 (A549 G-rich set),300,rho MSI vs G4Hunter,0.4053743203393845
+first 300 (A549 G-rich set),300,rho mean mono-shuffled nMSI vs WT G4Hunter,0.26332868916670554
+first 300 (A549 G-rich set),300,rho mean dinuc-shuffled nMSI vs WT G4Hunter,0.19716242822019853
+first 300 (A549 G-rich set),300,share of association kept by mono shuffles,1.1477075020200491
+first 300 (A549 G-rich set),300,share of association kept by dinuc shuffles,0.8593245145482692
+all but the first 300,22740,interior G>=3 runs,61853.0
+all but the first 300,22740,% identical flanks,41.145942799864194
+all but the first 300,22740,% of nMSI numerator from boundary words,35.41867807843854
+all but the first 300,22740,mean delta number of G-runs (real - mono shuffles),-0.4882401055408972
+all but the first 300,22740,mean delta mean G-run length,0.09719727738621085
+all but the first 300,22740,"Spearman rho(d nMSI, d runs)",0.2195017826860463
+all but the first 300,22740,"p, rho(d nMSI, d runs)",3.683038130507572e-246
+all but the first 300,22740,"Spearman rho(d nMSI, d mean run length)",-0.24084657139093518
+all but the first 300,22740,"pooled AUC real vs own mono shuffles, nMSI",0.46367748036385464
+all but the first 300,22740,"pooled AUC real vs own mono shuffles, nMSI, 95% CI low",0.46026340935812976
+all but the first 300,22740,"pooled AUC real vs own mono shuffles, nMSI, 95% CI high",0.4668932941108388
+all but the first 300,22740,"% of own mono shuffles strictly beaten, nMSI",42.95255057167986
+all but the first 300,22740,"% of own mono shuffles beaten, ties one half, nMSI",46.17128408091469
+all but the first 300,22740,"paired Wilcoxon p (real vs mono shuffle mean), nMSI",9.366575968493363e-64
+all but the first 300,22740,"pooled AUC real vs own mono shuffles, MSI",0.419591324716558
+all but the first 300,22740,"pooled AUC real vs own mono shuffles, MSI, 95% CI low",0.4164821443568998
+all but the first 300,22740,"pooled AUC real vs own mono shuffles, MSI, 95% CI high",0.4227518234381974
+all but the first 300,22740,"% of own mono shuffles strictly beaten, MSI",37.26860158311345
+all but the first 300,22740,"% of own mono shuffles beaten, ties one half, MSI",40.18082673702726
+all but the first 300,22740,"paired Wilcoxon p (real vs mono shuffle mean), MSI",0.0
+all but the first 300,22740,"pooled AUC real vs own dinuc shuffles, nMSI",0.5286138182556203
+all but the first 300,22740,"pooled AUC real vs own dinuc shuffles, nMSI, 95% CI low",0.526309499856993
+all but the first 300,22740,"pooled AUC real vs own dinuc shuffles, nMSI, 95% CI high",0.5306613082441642
+all but the first 300,22740,"% of own dinuc shuffles strictly beaten, nMSI",48.23073878627967
+all but the first 300,22740,"% of own dinuc shuffles beaten, ties one half, nMSI",55.188764291996485
+all but the first 300,22740,"paired Wilcoxon p (real vs dinuc shuffle mean), nMSI",0.0
+all but the first 300,22740,"pooled AUC real vs own dinuc shuffles, MSI",0.48741674145767727
+all but the first 300,22740,"pooled AUC real vs own dinuc shuffles, MSI, 95% CI low",0.4855655726794095
+all but the first 300,22740,"pooled AUC real vs own dinuc shuffles, MSI, 95% CI high",0.48924871594349995
+all but the first 300,22740,"% of own dinuc shuffles strictly beaten, MSI",39.921503957783635
+all but the first 300,22740,"% of own dinuc shuffles beaten, ties one half, MSI",46.45965259454705
+all but the first 300,22740,"paired Wilcoxon p (real vs dinuc shuffle mean), MSI",8.289527084639924e-37
+all but the first 300,22740,rho nMSI vs G4Hunter,0.2318945672293331
+all but the first 300,22740,rho MSI vs G4Hunter,0.4068200715653301
+all but the first 300,22740,rho mean mono-shuffled nMSI vs WT G4Hunter,0.27412465148346576
+all but the first 300,22740,rho mean dinuc-shuffled nMSI vs WT G4Hunter,0.19886362843409128
+all but the first 300,22740,share of association kept by mono shuffles,1.182108984952498
+all but the first 300,22740,share of association kept by dinuc shuffles,0.8575605319697907

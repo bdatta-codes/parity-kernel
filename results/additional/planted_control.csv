@@ -1,0 +1,13 @@
+background,L,feature,n,auc_nMSI,auc_G4Hunter
+uniform,25,mirror repeat,2000,0.817040375,
+uniform,25,guanine tracts,2000,0.4501272499999999,0.6623973749999998
+uniform,40,mirror repeat,2000,0.874644875,
+uniform,40,guanine tracts,2000,0.452896625,0.73144725
+uniform,60,mirror repeat,2000,0.877699125,
+uniform,60,guanine tracts,2000,0.460484125,0.7373975000000002
+G-rich,25,mirror repeat,2000,0.777899,
+G-rich,25,guanine tracts,2000,0.44487762499999994,0.612533
+G-rich,40,mirror repeat,2000,0.843520625,
+G-rich,40,guanine tracts,2000,0.424309625,0.651121125
+G-rich,60,mirror repeat,2000,0.865034125,
+G-rich,60,guanine tracts,2000,0.43619312499999996,0.638859875
